@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:6:22-74
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:11:22-77
+application
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:13:5-29:19
+receiver#androidx.media.session.MediaButtonReceiver
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:14:9-18:20
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:14:19-76
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:15:13-17:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:16:25-74
+service#com.jwplayer.pub.api.background.MediaService
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:19:9-25:19
+	android:exported
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:20:13-72
+meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
+ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:26:9-28:75
+	android:value
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml:27:13-93
+uses-sdk
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+		ADDED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
+		INJECTED from E:\ITGD\sportstoday_mobileapp\node_modules\react-native-jw-media-player\android\src\main\AndroidManifest.xml
